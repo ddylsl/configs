@@ -15,15 +15,15 @@
     "maximizable": false,
     "frame": true
   },
-  "runtime": {
-    "arguments": "--force-device-scale-factor=1",
-    "version": "4.40.7.18"
-  },
   "shortcut": {
     "company": "Damian Markets",
     "description": "Damian Markets",
     "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
     "name": "Damian Markets"
+  },
+  "runtime": {
+    "arguments": "--force-device-scale-factor=1",
+    "version": "4.40.7.18"
   },
    "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/secondapp.json"
 }
