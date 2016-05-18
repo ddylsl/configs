@@ -1,6 +1,6 @@
 {
   "startup_app": {
-    "name": "Damian Markets",
+    "name": "Cat Damian",
     "url": "https://www.google.com",
     "uuid": "amworkspaces-logon-31799",
     "applicationIcon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
@@ -16,10 +16,10 @@
     "frame": true
   },
   "shortcut": {
-    "company": "Damian Markets",
-    "description": "Damian Markets",
+    "company": "Cat Damian",
+    "description": "Cat Damian",
     "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
-    "name": "Damian Markets"
+    "name": "Cat Damian"
   },
   "runtime": {
     "arguments": "--force-device-scale-factor=1",
