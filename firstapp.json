@@ -24,6 +24,5 @@
     "description": "Damian Markets",
     "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
     "name": "Damian Markets"
-  },
-  "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/secondapp.json"
+  }
 }
