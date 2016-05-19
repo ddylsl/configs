@@ -15,6 +15,7 @@
     "maximizable": false,
     "frame": true
   },
+  "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/secondapp.json",
   "shortcut": {
     "company": "Damian Markets",
     "description": "Damian Markets",
