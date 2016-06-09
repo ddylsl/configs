@@ -15,6 +15,7 @@
     "maximizable": false,
     "frame": true
   },
+  "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/kgb2.json",
   "shortcut": {
     "company": "KGB",
     "description": "KGB",
