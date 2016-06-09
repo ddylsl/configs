@@ -15,11 +15,10 @@
     "maximizable": false,
     "frame": true
   },
-    "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/kgb3.json",
+  "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/kgb2.json",
   "shortcut": {
     "company": "KGB",
     "description": "KGB",
-    "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
     "name": "KGB"
   },
   "runtime": {
