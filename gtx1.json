@@ -1,6 +1,6 @@
 {
   "startup_app": {
-    "name": "Dog Damian",
+    "name": "GTX",
     "url": "https://www.google.com",
     "uuid": "amworkspaces-logon-31799",
     "applicationIcon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
@@ -16,14 +16,13 @@
     "frame": true
   },
   "shortcut": {
-    "company": "Dog Damian",
-    "description": "Dog Damian",
+    "company": "GTX",
+    "description": "GTX",
     "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
-    "name": "Dog Damian"
+    "name": "GTX"
   },
   "runtime": {
     "arguments": "--force-device-scale-factor=1",
     "version": "4.40.7.18"
-  },
-    "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/abc.json"
+  }
 }

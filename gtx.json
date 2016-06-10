@@ -1,6 +1,6 @@
 {
   "startup_app": {
-    "name": "KGB",
+    "name": "GTX",
     "url": "https://www.google.com",
     "uuid": "amworkspaces-logon-31799",
     "applicationIcon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
@@ -15,12 +15,11 @@
     "maximizable": false,
     "frame": true
   },
-  "overrideConfigUrl": "https://raw.githubusercontent.com/ddylsl/configs/master/kgb2.json",
   "shortcut": {
-    "company": "KGB",
-    "description": "KGB",
+    "company": "GTX",
+    "description": "GTX",
     "icon": "https://www.agilemarkets.com/applications/zap/workspaces-openfin-config/img/rbs.ico",
-    "name": "KGB"
+    "name": "GTX"
   },
   "runtime": {
     "arguments": "--force-device-scale-factor=1",
