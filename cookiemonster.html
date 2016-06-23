@@ -2,14 +2,15 @@
 	<head>
 		<script>
 			var i = 0
-			, 	name = "someCookie"
+			var cookieName = "someCookie"
+			
 			function setCookie() {
-				document.cookie = name + "=value" + i + "; expires=Thu, 01 Jan 2019 00:00:01 GMT;"
+				document.cookie = cookieName + "=value" + i + "; expires=Thu, 01 Jan 2019 00:00:01 GMT;"
 				i++
 			}
 
 			function resetCookie() {
-				document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+				document.cookie = cookieName + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 			}
 
 			function refreshLabel() {
