@@ -7,22 +7,31 @@
 			function setCookie() {
 				document.cookie = cookieName + "=value" + i + "; expires=Thu, 01 Jan 2019 00:00:01 GMT;"
 				i++
+				refreshLabel()
 			}
 
 			function resetCookie() {
 				document.cookie = cookieName + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+				refreshLabel()
 			}
 
 			function refreshLabel() {
 				document.getElementById("cookieLabel").textContent = document.cookie
 			}
+
+			document.addEventListener('DOMContentLoaded', function() {
+				refreshLabel();
+			}, false);
+
 		</script>
 
 	</head>
 	<body>
+		<label> Cookie Content:  </label>
+		<label id="cookieLabel"></label>
+		<br /> <br /> <br />
 		<button id="setCookie" onclick="setCookie()"> Set Cookie </button>
 		<button id="deleteCookie" onclick="resetCookie()"> Delete Cookie </button>
-		<button id="refreshLabel" onclick="refreshLabel()"> Refresh Label </button>
-		<label id="cookieLabel"></label>
+		<button id="refreshLabel" onclick="refreshLabel()"> Force Refresh Label </button>
 	</body>
 </html>
