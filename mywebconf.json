@@ -1,8 +1,8 @@
 {
   "startup_app": {
-    "name": "Cookie Bug",
-    "url": "http://htmlpreview.github.io/?https://raw.githubusercontent.com/ddylsl/configs/master/cookiemonster.html",
-    "uuid": "cookiemonsterapp777",
+    "name": "YUMMY",
+    "url": "http://htmlpreview.github.io/?https://raw.githubusercontent.com/ddylsl/configs/master/myweb.html",
+    "uuid": "OmnomNomNom",
     "autoShow": true,
     "defaultHeight": 960,
     "defaultWidth": 1280,
@@ -19,8 +19,8 @@
     "version": "4.40.7.18"
   },
   "shortcut": {
-    "company": "Cookie Bug Co",
-    "description": "Cookie Bug Reproduce",
-    "name": "Cookie Bug"
+    "company": "YUMMY",
+    "description": "YUMMY",
+    "name": "YUMMY"
   }
 }

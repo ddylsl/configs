@@ -1,0 +1,26 @@
+{
+  "startup_app": {
+    "name": "YUMMY",
+    "url": "http://htmlpreview.github.io/?https://raw.githubusercontent.com/ddylsl/configs/master/myweb.html",
+    "uuid": "OmnomNomNom",
+    "autoShow": true,
+    "defaultHeight": 960,
+    "defaultWidth": 1280,
+    "minHeight": 400,
+    "minWidth": 400,
+    "defaultCentered": true,
+    "resizable": true,
+    "minimizable": false,
+    "maximizable": false,
+    "frame": true
+  },
+  "runtime": {
+    "arguments": "--force-device-scale-factor=1",
+    "version": "4.40.7.18"
+  },
+  "shortcut": {
+    "company": "YUMMY",
+    "description": "YUMMY",
+    "name": "YUMMY"
+  }
+}
